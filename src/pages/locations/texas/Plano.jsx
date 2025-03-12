@@ -25,7 +25,7 @@ export default function Plano() {
           
           <div className="bg-white rounded-lg shadow-xl overflow-hidden">
             <img 
-              src="https://images.pexels.com/photos/3930165/pexels-photo-3930165.jpeg"
+              src="https://thumbs.dreamstime.com/b/dallas-texas-usa-downtown-drone-skyline-aerial-panorama-dallas-texas-usa-downtown-drone-skyline-aerial-panorama-205447308.jpg"
               alt="Plano Medical Practice"
               className="w-full h-full object-cover"
             />
