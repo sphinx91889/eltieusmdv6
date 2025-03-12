@@ -25,7 +25,7 @@ export default function SanAntonio() {
           
           <div className="bg-white rounded-lg shadow-xl overflow-hidden">
             <img 
-              src="https://images.pexels.com/photos/3930162/pexels-photo-3930162.jpeg"
+              src="https://skylinespace.nyc3.cdn.digitaloceanspaces.com/media/images/sanantonio_004_7632_up.jpg"
               alt="San Antonio Medical Practice"
               className="w-full h-full object-cover"
             />
