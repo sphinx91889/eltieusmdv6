@@ -25,7 +25,7 @@ export default function FortWorth() {
           
           <div className="bg-white rounded-lg shadow-xl overflow-hidden">
             <img 
-              src="https://images.pexels.com/photos/3930163/pexels-photo-3930163.jpeg"
+              src="https://skylinespace.nyc3.cdn.digitaloceanspaces.com/media/images/fortworth_035_5761_up.jpg"
               alt="Fort Worth Medical Practice"
               className="w-full h-full object-cover"
             />
