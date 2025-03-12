@@ -34,7 +34,7 @@ export default function Florida() {
       <PageHero 
         title="Medical Director Services in Florida" 
         subtitle="Comprehensive Support Across Major Florida Cities"
-        backgroundImage="https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+        backgroundImage="https://images.pexels.com/photos/4366062/pexels-photo-4366062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       />
       
       <div className="container mx-auto px-4 py-16">
