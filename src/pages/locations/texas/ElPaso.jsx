@@ -25,7 +25,7 @@ export default function ElPaso() {
           
           <div className="bg-white rounded-lg shadow-xl overflow-hidden">
             <img 
-              src="https://images.pexels.com/photos/3930164/pexels-photo-3930164.jpeg"
+              src="https://as2.ftcdn.net/v2/jpg/03/06/19/17/1000_F_306191713_yNrjCH3abBVmVKzL9iyBbscXSyHckUHY.jpg"
               alt="El Paso Medical Practice"
               className="w-full h-full object-cover"
             />
