@@ -39,7 +39,7 @@ export default function CTASection() {
                   Get Started
                 </Link>
                 <Link
-                  to="/services"
+                  to="/services/medical-director"
                   className="border-2 border-white text-white hover:bg-white hover:text-secondary px-8 py-3 rounded-lg transition-colors"
                 >
                   Learn More
