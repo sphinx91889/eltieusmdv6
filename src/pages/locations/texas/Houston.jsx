@@ -25,7 +25,7 @@ export default function Houston() {
           
           <div className="bg-white rounded-lg shadow-xl overflow-hidden">
             <img 
-              src="https://images.pexels.com/photos/1682462/pexels-photo-1682462.jpeg"
+              src="https://photographylife.com/wp-content/uploads/2017/02/Houston12.jpg"
               alt="Houston Medical Practice"
               className="w-full h-full object-cover"
             />
