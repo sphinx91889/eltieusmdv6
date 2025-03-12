@@ -42,7 +42,7 @@ export default function Locations() {
     {
       name: "Arizona",
       path: "/locations/arizona",
-      image: "https://www.tripsavvy.com/thmb/BS2_bGMEJ7RZZQEFx5bCz3FByck=/2122x1413/filters:fill(auto,1)/GettyImages-1138165502-1daa3ff05ff54d2dadb274ae14.jpg",
+      image: "https://www.redfin.com/blog/wp-content/uploads/2023/03/Scottsdale_GettyImages-169960380.jpg",
       description: "Expert medical director services across Arizona."
     }
   ];
